@@ -1,6 +1,7 @@
 # Sparkify Customer Churn 
 
 **Machine Learning on a Massive Distributed Dataset using PySpark**
+- I also wrote an article in the Medium that you can access here: https://medium.com/@macedoti/predicting-customer-churn-4ab4ea74d0ec
 
 ------------------
 ## Table of Contents 
